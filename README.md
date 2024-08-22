@@ -1,2 +1,2 @@
-# lakehouseinfra
-Repo for all of the infrastructural components of my self-hosted data lakehouse platform.
+# lakesetup
+repo for tracking manifests and charts in setting up infrastructure for my data lakehouse
